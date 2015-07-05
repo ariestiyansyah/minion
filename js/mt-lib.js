@@ -31,6 +31,8 @@ var mt_lib = [
 	{ w: "Aku Raja Dunia", r: "Super Pokalilomataaaa"},
 	{ w: "Untuk Kamu", r: "Para Tu" },
 	{ w: "Terima Kasih", r: "Tank yu"},
+	{ w: "Sayang", r: "Widya" },
+	{ w: "Minum", r: "nono" },
 ];
 
 	
